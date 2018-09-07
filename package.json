@@ -1,0 +1,27 @@
+{
+  "name": "vue-wrapper-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:ex": "webpack --mode development",
+    "serve:ex": "webpack-dev-server --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-tui": "^1.0.3",
+    "html-webpack-plugin": "^3.2.0",
+    "url-loader": "^1.1.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8",
+    "webpack-server": "^0.1.2"
+  }
+}
