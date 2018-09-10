@@ -6,12 +6,12 @@
 </template>
 
 <script>
-import Tui from '../src/Tui.vue'
+import Tui from '../src/Tui.vue';
 
 export default {
-  name: 'App',
-  components: {
-    Tui
-  }
-}
+    name: 'App',
+    components: {
+        Tui
+    }
+};
 </script>
